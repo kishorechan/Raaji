@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kishorechan
+- 👋 Hi, I’m Kishore Chandra
 - 👀 I’m interested in Kannada
 - 🌱 I’m currently learning font creation
 - 💞️ I’m looking to collaborate on kannada font creation
